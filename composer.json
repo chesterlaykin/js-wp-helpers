@@ -1,0 +1,16 @@
+{
+  "name": "chesterlaykin/js-wp-helpers",
+  "description": "Helper functions for wp",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/chesterlaykin/js-wp-helpers",
+  "authors": [
+    {
+      "name": "Joel S",
+      "homepage": ""
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.6"
+  }
+}
